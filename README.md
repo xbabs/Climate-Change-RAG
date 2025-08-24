@@ -64,9 +64,3 @@ Once the Streamlit application is running, simply type your question about clima
 *   Incorporate more advanced text processing and embedding techniques.
 *   Allow users to upload their own documents.
 """
-
-# Write the content to README.md
-with open("README.md", "w") as f:
-    f.write(readme_content)
-
-print("README.md created successfully.")
