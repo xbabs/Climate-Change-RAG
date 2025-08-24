@@ -1,0 +1,8 @@
+streamlit
+chromadb
+sentence-transformers
+google-generativeai
+python-dotenv
+openai # Keep openai in case it's needed for other parts or future extensions
+arxiv # Keep arxiv as it was used for data acquisition
+pymupdf # Keep pymupdf as it was used for text extraction
